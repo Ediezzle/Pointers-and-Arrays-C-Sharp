@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointersAndArrays", "PointersAndArrays\PointersAndArrays.csproj", "{A1DA0FE7-DD51-430B-922C-5717E2338F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DA0FE7-DD51-430B-922C-5717E2338F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DA0FE7-DD51-430B-922C-5717E2338F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DA0FE7-DD51-430B-922C-5717E2338F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DA0FE7-DD51-430B-922C-5717E2338F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BF343DA-FBAD-4114-949E-75ECE7963C5E}
+	EndGlobalSection
+EndGlobal
